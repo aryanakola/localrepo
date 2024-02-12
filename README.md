@@ -1,3 +1,3 @@
 # this is my local repo
 
-thank yo very much
+thank you very much
